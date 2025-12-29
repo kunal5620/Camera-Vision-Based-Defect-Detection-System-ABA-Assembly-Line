@@ -14,6 +14,8 @@ The solution significantly improved product quality and customer satisfaction by
 - Enable automated corrective actions
 - Improve product quality and customer satisfaction
 
+🧠 System Architecture
+
 Assembly Line <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;↓ <br>
 Industrial Camera <br>
